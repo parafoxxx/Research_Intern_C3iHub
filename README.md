@@ -4,10 +4,6 @@
 
 This repository contains the research work conducted as a **Research Intern** at [C3iHub, IIT Kanpur](https://c3ihub.org) under the supervision of **Dr. Ras Dwivedi** (Senior Vice President). The project focuses on designing and implementing secure, scalable, and flexible protocols for trustless atomic swaps using adaptor signatures.
 
-**Duration**: February 2025 – Present  
-**Institution**: [C3iHub, IIT Kanpur](https://c3ihub.org)  
-**Supervisor**: Dr. Ras Dwivedi (Senior Vice President)
-
 ## Project Objectives
 
 The primary objectives of this research project are:
